@@ -6,11 +6,11 @@ This README contains the instructions for "Symmetric Regularization based BERT f
 
 - The pretrained Chinese BERT models:
     - PyTorch:
-	- BERT-PN: [Download](https://drive.google.com/open?id=1q2WerrRTSFkKIcA51Ftb1UfgjuD-MXLi)
-	- BERT-PNsmth: [Download](https://drive.google.com/open?id=1vIWg-LJUenjccPkGymZT1gq3TvBr6Qqx)
+        - BERT-PN: [Download](https://drive.google.com/open?id=1q2WerrRTSFkKIcA51Ftb1UfgjuD-MXLi)
+        - BERT-PNsmth: [Download](https://drive.google.com/open?id=1vIWg-LJUenjccPkGymZT1gq3TvBr6Qqx)
     - Tensorflow:
         - BERT-PN: [Download](https://drive.google.com/open?id=1q2WerrRTSFkKIcA51Ftb1UfgjuD-MXLi)
-	- BERT-PNsmth: [Download](https://drive.google.com/open?id=1piBkehIh3tpZybghETZkzcc9a7Sl98yW)
+        - BERT-PNsmth: [Download](https://drive.google.com/open?id=1piBkehIh3tpZybghETZkzcc9a7Sl98yW)
 
 
 ## Usage
